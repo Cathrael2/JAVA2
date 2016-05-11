@@ -3,7 +3,7 @@ import java.util.List;
 
 
 public class Samochod {
-	
+	//to jest komentarz
 	private List<String> wyposazenie;
 	private String model;
 	
@@ -21,7 +21,7 @@ public class Samochod {
         this.model = model;
     }
 	
-	public List<String> getWyposarzenie() {
+	public List<String> getWyposazenie() {
         return wyposazenie;
     }
 

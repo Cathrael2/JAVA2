@@ -17,7 +17,7 @@ public class Fabryka {
     @SuppressWarnings("rawtypes")
 	public void printFaktura(Samochod s) {
         System.out.println(s.getModel());
-        Iterator it = s.getWyposarzenie().iterator();
+        Iterator it = s.getWyposazenie().iterator();
         while(it.hasNext()){
             System.out.println(it.next());
         }
