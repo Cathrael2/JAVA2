@@ -5,7 +5,7 @@ public class Samochody {
 		// TODO Auto-generated method stub
 			Interfejs inte = new Interfejs();
 			inte.mow();
-			
+			//TEST GIT PUSH
 	}
 
 }
